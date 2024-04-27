@@ -2,8 +2,8 @@ import PageName from '@/components/PageName'
 
 const layout = ({ children }: { children: React.ReactNode }) => {
 	return (
-		<div className='h-screen flex flex-col'>
-			<header className='flex justify-between h-16 items-center px-8 border-b dark:border-gray-700 border-gray-400'>
+		<div className='min-h-screen flex flex-col'>
+			<header className='flex justify-between h-16 items-center px-8 border-b dark:border-gray-700 border-gray-400 gap-4'>
 				<h2 className='dark:text-amber-200 text-amber-950 text-xl md:text-2xl font-medium'>
 					NK
 				</h2>
