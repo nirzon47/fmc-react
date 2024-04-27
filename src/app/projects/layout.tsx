@@ -1,8 +1,8 @@
 import PageName from '@/components/PageName'
 
-const layout = () => {
+const layout = ({ children }: { children: React.ReactNode }) => {
 	return (
-		<div>
+		<div className='h-screen flex flex-col'>
 			<header className='flex justify-between h-16 items-center px-8 border-b dark:border-gray-700 border-gray-400'>
 				<h2 className='dark:text-amber-200 text-amber-950 text-xl md:text-2xl font-medium'>
 					NK
@@ -18,6 +18,8 @@ const layout = () => {
 					</svg>
 				</a>
 			</header>
+
+			<main className='flex-1 grid place-content-center'>{children}</main>
 		</div>
 	)
 }
