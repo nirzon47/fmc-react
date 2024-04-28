@@ -11,3 +11,4 @@ Projects from [Frontend Mini Challenges](https://sadanandpai.github.io/frontend-
 -  [Anagram Checker](https://fmc-react.vercel.app/projects/anagram-checker)
 -  [Quote Generator](https://fmc-react.vercel.app/projects/quote-generator)
 -  [Image Gallery](https://fmc-react.vercel.app/projects/image-gallery)
+-  [Accordion](https://fmc-react.vercel.app/projects/accordion)
