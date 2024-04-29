@@ -12,3 +12,4 @@ Projects from [Frontend Mini Challenges](https://sadanandpai.github.io/frontend-
 -  [Quote Generator](https://fmc-react.vercel.app/projects/quote-generator)
 -  [Image Gallery](https://fmc-react.vercel.app/projects/image-gallery)
 -  [Accordion](https://fmc-react.vercel.app/projects/accordion)
+-  [Background Changer](https://fmc-react.vercel.app/projects/background-changer)
